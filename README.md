@@ -2,5 +2,5 @@
 
 
 
-Läs våra kurser här: [Kurser //courses]
+Läs våra kurser här: [Kurser](/courses.md)
 
